@@ -10,6 +10,7 @@
 ## 🛠️ Technologies I use
 - HTML, CSS, JavaScript
 - Python
+- Java
 - Git & GitHub
 
 ---
