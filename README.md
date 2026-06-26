@@ -45,7 +45,6 @@ Building intelligent systems, exploring cybersecurity, and turning ideas into im
 
 🌍 Open to remote opportunities, collaborations, and future startup ventures.
 
-♟️ Chess enthusiast.
 
 ---
 
