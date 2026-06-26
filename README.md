@@ -98,7 +98,7 @@ More details coming soon.
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 - Launch my first AI-powered product  
 - Improve cybersecurity expertise  
 - Build production-ready software  
